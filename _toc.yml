@@ -5,5 +5,29 @@ format: jb-book
 root: intro
 chapters:
 # - file: 01_introduction.ipynb
+- file: 02_a_gas.ipynb
 - file: 02_stack.ipynb
 - file: 03_memory.ipynb
+- file: 04_storage.ipynb
+- file: 05_1_state.ipynb
+- file: 05_opcodes.ipynb
+- file: 06_stop.ipynb
+- file: 07_math.ipynb
+- file: 08_comparisions.ipynb
+- file: 09_logic.ipynb
+- file: 10_bit.ipynb
+- file: 11_misc.ipynb
+- file: 12_environment.ipynb
+- file: 13_pop.ipynb
+- file: 14_memory.ipynb
+- file: 15_storage.ipynb
+- file: 16_jump.ipynb
+- file: 17_push.ipynb
+- file: 18_dup.ipynb
+- file: 19_swap.ipynb
+- file: 20_log.ipynb
+- file: 21_contract.ipynb
+- file: 24_evm.ipynb
+- file: 25_bytecode.ipynb
+- file: 26_run.ipynb
+- file: 99_conclusion.ipynb
