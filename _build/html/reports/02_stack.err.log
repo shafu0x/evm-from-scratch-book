@@ -22,7 +22,7 @@ print(stack.pop())
 
 [0;31m---------------------------------------------------------------------------[0m
 [0;31mTypeError[0m                                 Traceback (most recent call last)
-[0;32m/var/folders/08/q0syv9y576b_rnls32m9d3nr0000gn/T/ipykernel_13808/1192403925.py[0m in [0;36m<cell line: 1>[0;34m()[0m
+[0;32m/var/folders/08/q0syv9y576b_rnls32m9d3nr0000gn/T/ipykernel_5617/1192403925.py[0m in [0;36m<cell line: 1>[0;34m()[0m
 [0;32m----> 1[0;31m [0mprint[0m[0;34m([0m[0mstack[0m[0;34m.[0m[0mpop[0m[0;34m([0m[0;34m)[0m[0;34m)[0m[0;34m[0m[0;34m[0m[0m
 [0m
 [0;31mTypeError[0m: pop() missing 1 required positional argument: 'n'
