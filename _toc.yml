@@ -8,3 +8,4 @@ chapters:
 - file: 02_a_gas.ipynb
 - file: 02_stack.ipynb
 - file: 03_memory.ipynb
+- file: 04_storage.ipynb
