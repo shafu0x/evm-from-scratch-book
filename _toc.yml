@@ -2,31 +2,34 @@
 # Learn more at https://jupyterbook.org/customize/toc.html
 
 format: jb-book
-root: intro
+root: content/intro.ipynb
+defaults:  
+  titlesonly: True
 chapters:
-- file: 02_a_gas.ipynb
-- file: 02_stack.ipynb
-- file: 03_memory.ipynb
-- file: 04_storage.ipynb
-- file: 05_1_state.ipynb
-- file: 05_opcodes.ipynb
-- file: 06_stop.ipynb
-- file: 07_math.ipynb
-- file: 08_comparisions.ipynb
-- file: 09_logic.ipynb
-- file: 10_bit.ipynb
-- file: 11_misc.ipynb
-- file: 12_environment.ipynb
-- file: 13_pop.ipynb
-- file: 14_memory.ipynb
-- file: 15_storage.ipynb
-- file: 16_jump.ipynb
-- file: 17_push.ipynb
-- file: 18_dup.ipynb
-- file: 19_swap.ipynb
-- file: 20_log.ipynb
-- file: 21_contract.ipynb
-- file: 24_evm.ipynb
-- file: 25_bytecode.ipynb
-- file: 26_run.ipynb
-- file: 99_conclusion.ipynb
+- file: content/02_a_gas.ipynb
+- file: content/02_stack.ipynb
+- file: content/03_memory.ipynb
+- file: content/04_storage.ipynb
+- file: content/05_1_state.ipynb
+- file: content/opcodes.ipynb
+  sections:
+    - file: content/opcodes/06_stop.ipynb
+    - file: content/opcodes/07_math.ipynb
+    - file: content/opcodes/08_comparisions.ipynb
+    - file: content/opcodes/09_logic.ipynb
+    - file: content/opcodes/10_bit.ipynb
+    - file: content/opcodes/11_misc.ipynb
+    - file: content/opcodes/12_environment.ipynb
+    - file: content/opcodes/13_pop.ipynb
+    - file: content/opcodes/14_memory.ipynb
+    - file: content/opcodes/15_storage.ipynb
+    - file: content/opcodes/16_jump.ipynb
+    - file: content/opcodes/17_push.ipynb
+    - file: content/opcodes/18_dup.ipynb
+    - file: content/opcodes/19_swap.ipynb
+    - file: content/opcodes/20_log.ipynb
+    - file: content/opcodes/21_contract.ipynb
+- file: content/24_evm.ipynb
+- file: content/25_bytecode.ipynb
+- file: content/26_run.ipynb
+- file: content/99_conclusion.ipynb
