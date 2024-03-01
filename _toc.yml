@@ -2,34 +2,34 @@
 # Learn more at https://jupyterbook.org/customize/toc.html
 
 format: jb-book
-root: content/intro.ipynb
+root: content/01_intro.ipynb
 defaults:  
   titlesonly: True
 chapters:
-- file: content/02_a_gas.ipynb
-- file: content/02_stack.ipynb
-- file: content/03_memory.ipynb
-- file: content/04_storage.ipynb
-- file: content/05_1_state.ipynb
-- file: content/opcodes.ipynb
+- file: content/02_gas.ipynb
+- file: content/03_stack.ipynb
+- file: content/04_memory.ipynb
+- file: content/05_storage.ipynb
+- file: content/06_state.ipynb
+- file: content/07_opcodes.ipynb
   sections:
-    - file: content/opcodes/06_stop.ipynb
-    - file: content/opcodes/07_math.ipynb
-    - file: content/opcodes/08_comparisions.ipynb
-    - file: content/opcodes/09_logic.ipynb
-    - file: content/opcodes/10_bit.ipynb
-    - file: content/opcodes/11_misc.ipynb
-    - file: content/opcodes/12_environment.ipynb
-    - file: content/opcodes/13_pop.ipynb
-    - file: content/opcodes/14_memory.ipynb
-    - file: content/opcodes/15_storage.ipynb
-    - file: content/opcodes/16_jump.ipynb
-    - file: content/opcodes/17_push.ipynb
-    - file: content/opcodes/18_dup.ipynb
-    - file: content/opcodes/19_swap.ipynb
-    - file: content/opcodes/20_log.ipynb
-    - file: content/opcodes/21_contract.ipynb
-- file: content/24_evm.ipynb
-- file: content/25_bytecode.ipynb
-- file: content/26_run.ipynb
+    - file: content/opcodes/01_stop.ipynb
+    - file: content/opcodes/02_math.ipynb
+    - file: content/opcodes/03_comparisions.ipynb
+    - file: content/opcodes/04_logic.ipynb
+    - file: content/opcodes/05_bit.ipynb
+    - file: content/opcodes/06_misc.ipynb
+    - file: content/opcodes/07_environment.ipynb
+    - file: content/opcodes/08_pop.ipynb
+    - file: content/opcodes/09_memory.ipynb
+    - file: content/opcodes/10_storage.ipynb
+    - file: content/opcodes/11_jump.ipynb
+    - file: content/opcodes/12_push.ipynb
+    - file: content/opcodes/13_dup.ipynb
+    - file: content/opcodes/14_swap.ipynb
+    - file: content/opcodes/15_log.ipynb
+    - file: content/opcodes/16_contract.ipynb
+- file: content/08_evm.ipynb
+- file: content/09_bytecode.ipynb
+- file: content/10_run.ipynb
 - file: content/99_conclusion.ipynb
