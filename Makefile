@@ -1,3 +1,3 @@
 build:
-	rm -rf _build/
+	# rm -rf _build/
 	jupyter-book build .
