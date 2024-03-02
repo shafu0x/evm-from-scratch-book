@@ -13,22 +13,22 @@ chapters:
 - file: content/06_state.ipynb
 - file: content/07_opcodes.ipynb
   sections:
-    - file: content/opcodes/01_stop.ipynb
-    - file: content/opcodes/02_math.ipynb
-    - file: content/opcodes/03_comparisions.ipynb
-    - file: content/opcodes/04_logic.ipynb
-    - file: content/opcodes/05_bit.ipynb
-    - file: content/opcodes/06_misc.ipynb
-    - file: content/opcodes/07_environment.ipynb
-    - file: content/opcodes/08_pop.ipynb
-    - file: content/opcodes/09_memory.ipynb
-    - file: content/opcodes/10_storage.ipynb
-    - file: content/opcodes/11_jump.ipynb
-    - file: content/opcodes/12_push.ipynb
-    - file: content/opcodes/13_dup.ipynb
-    - file: content/opcodes/14_swap.ipynb
-    - file: content/opcodes/15_log.ipynb
-    - file: content/opcodes/16_contract.ipynb
+    - file: content/07a_opcodes/01_stop.ipynb
+    - file: content/07a_opcodes/02_math.ipynb
+    - file: content/07a_opcodes/03_comparisions.ipynb
+    - file: content/07a_opcodes/04_logic.ipynb
+    - file: content/07a_opcodes/05_bit.ipynb
+    - file: content/07a_opcodes/06_misc.ipynb
+    - file: content/07a_opcodes/07_environment.ipynb
+    - file: content/07a_opcodes/08_pop.ipynb
+    - file: content/07a_opcodes/09_memory.ipynb
+    - file: content/07a_opcodes/10_storage.ipynb
+    - file: content/07a_opcodes/11_jump.ipynb
+    - file: content/07a_opcodes/12_push.ipynb
+    - file: content/07a_opcodes/13_dup.ipynb
+    - file: content/07a_opcodes/14_swap.ipynb
+    - file: content/07a_opcodes/15_log.ipynb
+    - file: content/07a_opcodes/16_contract.ipynb
 - file: content/08_evm.ipynb
 - file: content/09_bytecode.ipynb
 - file: content/10_run.ipynb
