@@ -23,6 +23,7 @@ chapters:
     - file: content/07a_opcodes/08_pop.ipynb
     - file: content/07a_opcodes/09_memory.ipynb
     - file: content/07a_opcodes/10_storage.ipynb
+    - file: content/07a_opcodes/17_transient.ipynb
     - file: content/07a_opcodes/11_jump.ipynb
     - file: content/07a_opcodes/12_push.ipynb
     - file: content/07a_opcodes/13_dup.ipynb
