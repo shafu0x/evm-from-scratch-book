@@ -12,4 +12,4 @@ You can view these notebooks directly on GitHub or download the repository to ex
 
 ## Video Series
 
-A video series covering these topics is coming soon. And will be uploaded to my (shafu) [page](https://www.youtube.com/channel/UCI9MdYsFm9h7W9jyP6Uxxbw) on YouTube.
+A video series covering these topics is coming soon. And will be uploaded to my (shafu) [page](https://www.youtube.com/channel/UCI9MdYsFm9h7W9jyP6Uxxbw) on YouTube. 
