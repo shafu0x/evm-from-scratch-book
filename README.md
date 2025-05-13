@@ -1,6 +1,6 @@
 # Building the EVM from Scratch
 
-You can find the book here: [evm-from-scratch.xyz](https://evm-from-scratch.xyz/content/01_intro.html)
+You can find the book here: [evm-from-scratch.app](https://evm-from-scratch.app/content/01_intro.html)
 
 ![codes](static/evm-from-scratch.png)
 
