@@ -3,7 +3,7 @@
 
 title: EVM from Scratch
 author: shafu
-logo: ./ogo4-opcode_symbol.svg
+logo: ./logo4-opcode_symbol.svg
 
 # Force re-execution of notebooks on each build.
 # See https://jupyterbook.org/content/execute.html
