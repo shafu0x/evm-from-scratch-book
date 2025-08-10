@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512">
+  <rect width="100%" height="100%" fill="none"/>
+  <rect x="144.59" y="47.10" width="34.82" height="34.82" rx="5.22" fill="#7C3AED"/>
+<rect x="144.59" y="430.08" width="34.82" height="34.82" rx="5.22" fill="#7C3AED"/>
+<rect x="207.26" y="47.10" width="34.82" height="34.82" rx="5.22" fill="#7C3AED"/>
+<rect x="207.26" y="430.08" width="34.82" height="34.82" rx="5.22" fill="#7C3AED"/>
+<rect x="269.93" y="47.10" width="34.82" height="34.82" rx="5.22" fill="#7C3AED"/>
+<rect x="269.93" y="430.08" width="34.82" height="34.82" rx="5.22" fill="#7C3AED"/>
+<rect x="332.60" y="47.10" width="34.82" height="34.82" rx="5.22" fill="#7C3AED"/>
+<rect x="332.60" y="430.08" width="34.82" height="34.82" rx="5.22" fill="#7C3AED"/>
+<rect x="47.10" y="144.59" width="34.82" height="34.82" rx="5.22" fill="#7C3AED"/>
+<rect x="430.08" y="144.59" width="34.82" height="34.82" rx="5.22" fill="#7C3AED"/>
+<rect x="47.10" y="207.26" width="34.82" height="34.82" rx="5.22" fill="#7C3AED"/>
+<rect x="430.08" y="207.26" width="34.82" height="34.82" rx="5.22" fill="#7C3AED"/>
+<rect x="47.10" y="269.93" width="34.82" height="34.82" rx="5.22" fill="#7C3AED"/>
+<rect x="430.08" y="269.93" width="34.82" height="34.82" rx="5.22" fill="#7C3AED"/>
+<rect x="47.10" y="332.60" width="34.82" height="34.82" rx="5.22" fill="#7C3AED"/>
+<rect x="430.08" y="332.60" width="34.82" height="34.82" rx="5.22" fill="#7C3AED"/>
+
+  <rect x="81.92" y="81.92" width="348.16" height="348.16" rx="30.72" fill="#0B1020" stroke="#00F6D5" stroke-width="15.36"/>
+  <polygon points="334.39,210.74 334.39,301.26 256.00,346.52 177.61,301.26 177.61,210.74 256.00,165.48" fill="none" stroke="#00F6D5" stroke-width="13.82"/>
+  <circle cx="256.00" cy="256.00" r="22.63" fill="#00F6D5"/>
+</svg>
