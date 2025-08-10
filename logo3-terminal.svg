@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="300" viewBox="0 0 900 300">
+  <rect width="100%" height="100%" fill="none"/>
+  
+  <rect x="36.0" y="36.0" width="228.00" height="228.00" rx="24.00" fill="#0B1020" stroke="#00F6D5" stroke-width="9.00"/>
+  <circle cx="60.00" cy="60.00" r="8.40" fill="#00F6D5"/>
+  <circle cx="86.40" cy="60.00" r="8.40" fill="#7C3AED"/>
+  <path d="M 60.00,111.00 l 30.00,24.00 l -30.00,24.00" fill="none" stroke="#E6FDF8" stroke-width="8.10" stroke-linecap="round" stroke-linejoin="round"/>
+  <line x1="60.00" y1="168.00" x2="96.00" y2="168.00" stroke="#E6FDF8" stroke-width="8.10" stroke-linecap="round"/>
+  <text x="60.00" y="225.00" font-family="JetBrains Mono, Fira Code, Menlo, monospace" font-size="48.00" fill="#E6FDF8">&gt; 0x6001600152</text>
+    
+  <text x="340" y="144.00" font-family="JetBrains Mono, Fira Code, Menlo, monospace" font-size="102.00" fill="#0B1020" font-weight="700">EVM</text>
+  <text x="640" y="144.00" font-family="JetBrains Mono, Fira Code, Menlo, monospace" font-size="102.00" fill="#00F6D5" font-weight="700">$</text>
+  <text x="340" y="246.00" font-family="Inter, Sora, Segoe UI, sans-serif" font-size="54.00" fill="#0B1020" letter-spacing="1">FROM SCRATCH</text>
+</svg>
