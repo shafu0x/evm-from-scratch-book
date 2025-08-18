@@ -11,7 +11,6 @@ chapters:
 - file: content/04_memory.ipynb
 - file: content/05_storage.ipynb
 - file: content/06_state.ipynb
-- file: content/06a_versions.ipynb
 - file: content/07_opcodes.ipynb
   sections:
     - file: content/07a_opcodes/01_stop.ipynb
