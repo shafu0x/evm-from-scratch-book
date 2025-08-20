@@ -4,9 +4,9 @@ You can find the book here: [evm-from-scratch.app](https://evm-from-scratch.app/
 
 ![codes](static/evm-from-scratch.png)
 
-We are going to build the Ethereum Virtual Machine (EVM) from scratch. Every major topic is covered in a separate Jupyter Notebook. 
+We will build the Ethereum Virtual Machine (EVM) from scratch. Every major topic is covered in a separate Jupyter Notebook. 
 
-In the end, we are going to combine all the building blocks we created to create the EVM.
+Ultimately, we will combine all the building blocks we have created to create the EVM.
 
 You can view these notebooks directly on GitHub or download the repository to execute and play around locally.
 
