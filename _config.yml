@@ -4,6 +4,7 @@
 title: EVM from Scratch
 author: shafu
 logo: static/logo.png
+copyright: 2024-present
 
 # Force re-execution of notebooks on each build.
 # See https://jupyterbook.org/content/execute.html
