@@ -3,7 +3,8 @@
 
 title: EVM from Scratch
 author: shafu
-# logo: logo.png
+logo: static/logo.png
+copyright: 2024-present
 
 # Force re-execution of notebooks on each build.
 # See https://jupyterbook.org/content/execute.html
@@ -30,6 +31,7 @@ repository:
 html:
   use_issues_button: true
   use_repository_button: true
+  favicon: static/favicon.ico
 
 launch_buttons:
   thebe: true # See https://jupyterbook.org/en/stable/interactive/thebe.html
