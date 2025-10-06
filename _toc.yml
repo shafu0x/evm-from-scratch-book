@@ -30,6 +30,8 @@ chapters:
     - file: content/07a_opcodes/14_swap.ipynb
     - file: content/07a_opcodes/15_log.ipynb
     - file: content/07a_opcodes/16_contract.ipynb
+    - file: content/07a_opcodes/17_transient.ipynb
+    - file: content/07a_opcodes/utils.ipynb
 - file: content/08_evm.ipynb
 - file: content/09_bytecode.ipynb
 - file: content/10_run.ipynb
