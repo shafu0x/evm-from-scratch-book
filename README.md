@@ -1,5 +1,7 @@
 # Building the EVM from Scratch
 
+[![Support this repo](https://img.shields.io/badge/Support%20this%20repo-Pay%20with%20Merit-2b7fff?style=flat)](http://localhost:5173/shafu0x/evm-from-scratch-book?fundAmount=10)
+
 Learn to build a mini Ethereum Virtual Machine from scratch with this open-source educational book. Built with [Jupyter Book](https://jupyterbook.org/).
 
 You can read the book here: [evm-from-scratch.app](https://evm-from-scratch.app/content/01_intro.html)
